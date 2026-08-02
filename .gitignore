@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+
+# Generated files
+temp/*
+!temp/.gitkeep
+
+output/*
+!output/.gitkeep
+
+# Game files
+data/*.zip
